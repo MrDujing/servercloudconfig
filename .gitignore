@@ -12,3 +12,5 @@
 .springBeans
 .sts4-cache
 
+.idea
+.class
