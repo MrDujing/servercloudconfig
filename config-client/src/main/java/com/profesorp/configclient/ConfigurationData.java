@@ -11,5 +11,4 @@ import lombok.Data;
 public class ConfigurationData {	
 	private int minimum;
 	private int maximum;
-	
 }
